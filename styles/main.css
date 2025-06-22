@@ -49,6 +49,13 @@ a:hover {
   text-decoration: underline;
 }
 
+img.flowers {
+  display: block;
+  margin: 20px auto;
+  width: 180px;
+  height: auto;
+}
+
 /* widescreen displays */
 @media only screen and (min-width: 920px) {
   .container {
