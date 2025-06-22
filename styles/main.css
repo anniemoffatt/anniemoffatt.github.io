@@ -17,9 +17,8 @@ p {
 }
 
 a {
-  color: rgb(233, 175, 193); /* Changes all links to blue */
-}
+  color: rgb(224, 143, 168);
 
 a:hover {
-  color: rgb(233, 175, 193); /* Changes the color on hover */
+  color: rgb(235, 181, 198);
 }
