@@ -50,6 +50,14 @@ a:hover {
   text-decoration: underline;
 }
 
+.header {
+  background-color: rgb(235, 181, 198);
+  color: black;
+  text-align: center;
+  padding: 30px 0;
+  margin-bottom: 40px;
+}
+
 .footer {
   background-color: rgb(235, 181, 198);
   color: black;
