@@ -72,8 +72,9 @@ img.flowers {
   height: auto;
 }
 
-.highlight {
+.highlight p {
   color: rgb(235, 181, 198);
+  font-weight: bold;
 }
 
 /* widescreen displays */
