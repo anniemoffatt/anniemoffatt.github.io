@@ -108,14 +108,6 @@ td {
   background-color: rgb(245, 231, 236);
 }
 
-nav a {
-  display: table-cell;
-  padding: 12px;
-  border: 1px solid rgb(224, 143, 168);
-  text-align: center;
-  background-color: rgb(245, 231, 236);
-}
-
 /* widescreen displays */
 @media only screen and (min-width: 920px) {
   .container {
