@@ -83,6 +83,35 @@ img.flowers {
   font-weight: bold;
 }
 
+table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background-color: #fff0f5;
+  color: black;
+  font-size: 16px;
+}
+
+th,
+td {
+  border: 1px solid rgb(235, 181, 198);
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #fae4eb; /* soft blush */
+  color: #333;
+}
+
+td {
+  background-color: #fffafc;
+}
+
+tr:hover td {
+  background-color: #fbe9f1;
+}
+
 /* widescreen displays */
 @media only screen and (min-width: 920px) {
   .container {
