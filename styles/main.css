@@ -87,7 +87,7 @@ table {
   width: 90%;
   margin: 20px auto;
   border-collapse: collapse;
-  background-color: #fff0f5;
+  background-color: rgb(245, 231, 236);
   color: black;
   font-size: 16px;
 }
@@ -100,16 +100,12 @@ td {
 }
 
 th {
-  background-color: #fae4eb; /* soft blush */
+  background-color: rgb(235, 181, 198);
   color: #333;
 }
 
 td {
-  background-color: #fffafc;
-}
-
-tr:hover td {
-  background-color: #fbe9f1;
+  background-color: rgb(245, 231, 236);
 }
 
 /* widescreen displays */
