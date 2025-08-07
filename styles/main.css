@@ -76,6 +76,7 @@ img.flowers {
   margin: 20px auto;
   width: 120px;
   height: auto;
+  filter: brightness(0) contrast(200%);
 }
 
 .highlight {
